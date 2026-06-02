@@ -4,7 +4,7 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: 'stormsmps3.aternos.me',
     port: 29739,
-    username: 'Backupstorm',
+    username: 'backupstorm',
     version: '1.20.1',
     auth: 'offline'
   })
